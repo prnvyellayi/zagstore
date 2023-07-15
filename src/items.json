@@ -1,0 +1,56 @@
+[
+    {
+        "img": "https://m.media-amazon.com/images/I/61CxvrCYtRL._UY741_.jpg",
+        "title": "Men's Striped Check Shirt",
+        "price": 689,
+        "discount": "",
+        "isSaved": false,
+        "star": 4.5,
+        "reviews": 45
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/91EFJuKwT5L._UX569_.jpg",
+        "title": "Van Heusen Regular Shirt",
+        "price": 1039,
+        "discount": "",
+        "isSaved": false,
+        "star": 4,
+        "reviews": 57
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/71vhqERIDkL._UX425_.jpg",
+        "title": "Arrow Men Striped Shirt",
+        "price": 1799,
+        "discount": "",
+        "isSaved": false,
+        "star": 4.6,
+        "reviews": 37
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/71eYl8nHRVL._UY550_.jpg",
+        "title": "Peter England Men Shirt",
+        "price": 749,
+        "discount": "",
+        "isSaved": false,
+        "star": 4.9,
+        "reviews": 76
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/71JUc02okgL._UX466_.jpg",
+        "title": "Sport Men Casual Shirt",
+        "price": 749,
+        "discount": "",
+        "isSaved": false,
+        "star": 3.4,
+        "reviews": 74
+    },
+    {
+        "img": "https://m.media-amazon.com/images/I/61DGAlvxRLL._UY550_.jpg",
+        "title": "Men's Slim Fit Sport Shirt",
+        "price": 599,
+        "discount": "",
+        "isSaved": false,
+        "star": 4.1,
+        "reviews": 80
+    }
+]

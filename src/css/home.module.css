@@ -3,7 +3,7 @@
   flex-direction: column;
   /* width: 100%; */
   height: calc(100vh - 130px);
-  padding: 50px 24px;
+  padding: 45px 24px;
   padding-bottom: 0px;
   padding-right: 24px;
   justify-content: flex-start;

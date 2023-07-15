@@ -33,7 +33,7 @@ const Display = () => {
         <div
           style={{
             background: `url(${each.img})`,
-            backgroundSize: "160px",
+            backgroundSize: "150px",
           }}
           className={styles.img}
         >

@@ -2,12 +2,12 @@
   display: flex;
   flex-direction: column;
   /* width: 100%; */
-  height: calc(100vh - 130px);
+  height: fit-content;
   padding: 45px 24px;
-  padding-bottom: 0px;
+  padding-bottom: 79px;
   padding-right: 24px;
   justify-content: flex-start;
-  overflow-y:hidden;
+  overflow-y:scroll;
 }
 
 .title {
@@ -91,11 +91,10 @@
 .display {
     display: flex;
     flex-direction: row;
-    height: calc(100% - 196px);
+    /* height: calc(100% - 196px); */
     flex-wrap: wrap;
     justify-content: space-evenly;
     overflow-x: hidden;
-    overflow-y: scroll;
     padding-top: 2px;
 }
 
